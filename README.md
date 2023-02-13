@@ -28,5 +28,5 @@ Inicia o app em modo de desenvolvimento na URL:
 
 Pronto, agora você pode utilizar a Aplicação Web :D
 
-![frontend cost](/Project Manager/src/img/Home.PNG)
+![Home](https://user-images.githubusercontent.com/115107911/218591109-d0270a99-be24-4d1c-8509-b83328d1a2a2.PNG)
 
