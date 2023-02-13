@@ -6,17 +6,7 @@ Apresenta funcionalidades de criar e editar projetos, checar detalhes do projeto
 
 ## Como rodar o projeto
 
-Primeiro crie um app react no Terminal (instale o NodeJS antes) 
-
-### `npx create-react-app my-app`
-
-Substitua os arquivos inciais por esses do projeto
-
-No diretório do projeto rode:
-
-### `npm install react-router-dom`
-### `npm install json-server` 
-
+### `npm install`
 Instala as dependências do projeto.
 
 ### `npm run backend`
