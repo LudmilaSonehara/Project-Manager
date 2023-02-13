@@ -12,7 +12,9 @@ No diretório do projeto rode:
 
 Instala as dependências do projeto.
 
-### `npm start`
+### `npm run backend`
+Inicia o "json-server" com o mock do Backend.
 
+### `npm start`
 Inicia o app em modo de desenvolvimento na URL:
 [http://localhost:3000](http://localhost:3000)
